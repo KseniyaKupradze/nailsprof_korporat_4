@@ -257,6 +257,7 @@ background: url(img/backgroung1.png)no-repeat;
 
 	}
 	.slide{
+		position:relative;
 		display: flex;
 		margin-top: 190px;
     	margin-left: 465px;
